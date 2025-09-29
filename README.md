@@ -35,7 +35,7 @@ source /root/.bashrc
 Clone this repository
 
 ```bash
-git clone https://github.com/Somto811/WhaleTransferTrap
+git clone https://github.com/Somto811/WhaleTransferTrap.git
 
 
 cd WhaleTransferTrap
