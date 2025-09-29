@@ -55,7 +55,7 @@ Deploy the trap
 ```bash
 DROSERA_PRIVATE_KEY=xxx drosera apply
 ```
- Replace xxx with your EVM wallet privatekey (Ensure it's funded with Hoodi ETH, you can claim 1E from hoodifaucet.io)
+ Replace xxx with your EVM wallet privatekey (Ensure it's funded with Hoodi ETH, you can claim  from hoodifaucet.io)
 
 
 
